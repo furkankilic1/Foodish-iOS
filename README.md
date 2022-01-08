@@ -37,3 +37,4 @@
 * Core Data is used to store the favorite meals.
 
 ![4Sh1M7dP4z](https://user-images.githubusercontent.com/58864953/148658847-a3ab4733-311d-4c33-904b-ed6c37f3d5fb.png)
+
